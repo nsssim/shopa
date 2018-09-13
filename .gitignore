@@ -1,0 +1,11 @@
+/.htaccess
+/application/config/config.php
+/application/config/database.php
+/application/config/constants.php
+_gsdata_
+data/carts_temp/users/4.gzip
+*.gzip
+data/logs/category_synch_log.html
+data/logs/orders_emails.html
+data/logs/test_log.txt
+/ushop.clpprj

@@ -1,0 +1,125 @@
+<head>
+	<style>
+	.title
+	{
+		color:#538D71;
+	}
+	
+	.box
+	{
+		background-color:#F7EDED;
+		border: 1px solid blue;
+		width:auto;
+		padding : 5px;
+		margin-left:50px;
+	}
+	
+	</style>
+</head>
+<h1>ShopAmerika API Reference</h1>
+<hr></hr>
+<!-------------------------------------------------------------------->
+<h2 class="title" >Browse per category & price</h2>
+<div class="box">
+	<a href='http://api.shopstyle.com/api/v2/products?pid=sugar&cat=womens-clothes?fl=p21:49' > http://api.shopstyle.com/api/v2/products?pid=sugar&cat=womens-clothes?fl=p21:49 </a>
+</div>
+
+<h2 class="title" >Browse per category & price and sort</h2>
+<div class="box">
+	<h3>from low to high</h3>
+	<a target="_blank"  href='http://api.shopstyle.com/api/v2/products?pid=sugar&cat=womens-clothes?fl=p21:49&sort=PriceLoHi' >
+		http://api.shopstyle.com/api/v2/products?pid=sugar&cat=womens-clothes?fl=p21:49&sort=PriceLoHi 
+	</a>
+
+	<h3>from high to low</h3>
+	<a target="_blank"  href='http://api.shopstyle.com/api/v2/products?pid=sugar&cat=womens-clothes?fl=p21:49&sort=PriceHiLo' >
+		http://api.shopstyle.com/api/v2/products?pid=sugar&cat=womens-clothes?fl=p21:49&sort=PriceHiLo 
+	</a>
+
+	<h3>Most popular</h3>
+	<a target="_blank"  href='http://api.shopstyle.com/api/v2/products?pid=sugar&cat=womens-clothes?fl=p21:49&sort=Popular' >
+		http://api.shopstyle.com/api/v2/products?pid=sugar&cat=womens-clothes?fl=p21:49&sort=Popular 
+	</a>
+	
+	<h3>Newest</h3>
+	<a target="_blank"  href='http://api.shopstyle.com/api/v2/products?pid=sugar&cat=womens-clothes?fl=p21:49&sort=Recency' > 
+		http://api.shopstyle.com/api/v2/products?pid=sugar&cat=womens-clothes?fl=p21:49&sort=Recency 
+	</a>
+</div>
+
+<h2 class="title" >Products in a category with limit and offset </h2>
+<div class="box">
+	<a target="_blank"  href='http://api.shopstyle.com/api/v2/products?pid=sugar&cat=clothes-shoes-and-jewelry&offset=0&limit=50' > 
+		http://api.shopstyle.com/api/v2/products?pid=sugar&cat=clothes-shoes-and-jewelry&offset=0&limit=50
+	</a>
+</div>
+
+<h2 class="title" >Available Sizes in a category (hasSizeFilter)</h2>
+<div class="box">
+	<a target="_blank"  href='http://api.shopstyle.com/api/v2/sizes?pid=sugar&cat=womens-athletic-clothes' > 
+		http://api.shopstyle.com/api/v2/sizes?pid=sugar&cat=womens-athletic-clothes 
+	</a>
+</div>
+
+<h2 class="title" >Available Colors in a category (hasColorFilter)</h2>
+<div class="box">
+	<a target="_blank"  href='http://api.shopstyle.com/api/v2/colors?pid=sugar&cat=women' > 
+		http://api.shopstyle.com/api/v2/colors?pid=sugar&cat=women 
+	</a>
+</div>
+
+<h2 class="title" >Available Brands in a category (load only 10 and load more via ajax) </h2>
+<div class="box">
+	<a target="_blank"  href='http://api.shopstyle.com/api/v2/brands?pid=sugar&cat=women&offset=0&limit=10' > 
+		http://api.shopstyle.com/api/v2/brands?pid=sugar&cat=women&offset=0&limit=10
+	</a>
+</div>
+
+
+
+
+<!-------------------------------------------------------------------->
+<h2 class="title" >Annexes</h2>
+<h3>Price slider</h3>
+<div class="box">
+	<pre>
+	min_val	min_id		max_val	max_id
+	5000+	INVALID		5000+	49
+	4500	48		4500	47
+	4000	47		4000	46
+	3500	46		3500	45
+	3000	45		3000	44
+	2500	44		2500	43
+	2250	43		2250	42
+	2000	42		2000	41
+	1750	41		1750	40
+	1500	40		1500	39
+	1250	39		1250	38
+	1000	38	 	1000	37
+	900	37	 	900	36
+	800	36	 	800	35
+	700	35	 	700	34
+	600	34	 	600	33
+	500	33	 	500	32
+	400	32	 	400	31
+	350	31	 	350	30
+	300	30	 	300	29
+	250	29	 	250	28
+	200	28	 	200	27
+	150	27	 	150	26
+	125	26	 	125	25
+	100	25	 	100	24
+	75	24	 	75	23
+	50	23		50	22
+	25	22		25	21
+	10	21		10	20
+	0	20		0	INVALID
+	</pre>
+</div>
+
+<h3>All categories</h3>
+<pre>
+	<div class="box">
+	<a href="http://api.shopstyle.com/api/v2/categories?pid=sugar">http://api.shopstyle.com/api/v2/categories?pid=sugar</a>
+	</div>
+</pre>

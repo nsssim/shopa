@@ -1,0 +1,24 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|images|assets|data|robots\.txt)
+RewriteRule ^(.*)$ /usa/index.php/$1 [L]
+
+# Added a rewrite to respond with a 200 SUCCESS on every OPTIONS request
+RewriteCond %{REQUEST_METHOD} OPTIONS
+RewriteRule ^(.*)$ $1 [R=200,L]
+
+
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteRule ^(.*)$ /usa/index.php?/$1 [L]
+
+ # BEGIN REQUIRED FOR WEBFONTS
+ AddType font/ttf .ttf
+ AddType font/eot .eot
+ AddType font/otf .otf
+ AddType font/woff .woff
+ <FilesMatch "\.(ttf|otf|eot|woff)$">
+ <IfModule mod_headers.c>
+  Header set Access-Control-Allow-Origin "*"
+ </IfModule>
+ </FilesMatch>
+ # END REQUIRED FOR WEBFONTS

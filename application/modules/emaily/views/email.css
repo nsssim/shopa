@@ -1,0 +1,150 @@
+.foo{
+	
+}
+body{
+		font-family: arial;
+	}
+	
+	#cat_menu
+	{
+		margin-left:auto;
+		margin-right:auto;
+		text-align: center;
+		
+	}
+	#cat_menu ul
+	{
+		list-style:none;
+		padding: 0;
+	}
+	#cat_menu li{
+		display: inline-block;	
+		margin: 5px;
+	}
+	#cat_menu a{
+	text-decoration: none;
+	color: black;
+	}
+	
+	#anchor_frame{
+		position: relative;
+		margin-left:auto;
+		margin-right:auto;
+		width:800px;
+	}
+	#main_frame
+	{
+		float:left;
+		padding:5px;
+		border: 1px solid #e0e0e2;
+	
+	}
+	#container{
+		width: 100%; 
+		/*background-color: yellow;*/
+		display: flex;
+		
+	}
+	
+	.button {
+		background-color:#ffffff;   
+		color: #000000;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		border: solid 1px;
+		cursor: pointer;
+	}
+	
+	.title_line{
+	background-color: black;
+	border: none;
+	color: white;
+	padding: 5px 5px;
+	text-align: left;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	width: 100%;
+	font-weight: bold;
+	}
+	.cart{
+	 border-collapse: collapse;
+	 margin-top: 5px;
+	 
+	}
+	
+	.tbl_th{
+	background-color:#666666;
+	padding-left: 20px;
+	text-align: left;
+	color:#ffffff;
+	}
+	.cart_img{
+		width: 50px;
+		text-align: center;
+	}
+	
+	.item_col{
+		padding-left: 20px;
+		text-align: left;
+	}
+	
+	.detail-col{
+		padding-left: 20px;
+		text-align: left;
+	}
+	.ship-col{
+		padding-left: 20px;
+		text-align: left;
+	}
+	.price-col{
+		padding-left: 20px;
+		text-align: left;
+	}
+	
+	.cart_img img{
+		padding-left: 20px;
+	}
+	.order_xtotal{
+	background-color: #c2c2c2;
+	padding: 15px;
+	color: #fff;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 20px;
+	}
+	.grey_line{
+		background-color: #f3f3f3;
+		line-height: 2.5em;
+		padding: 5px;		
+	}
+	.pull-right
+	{
+		float:right;
+		margin-right:5px;
+	}
+	
+	#right-block{
+	 width: 17%;
+	 padding: 10px;
+	 background-color: #f3f3f3;  
+	 float: left; 
+	 display: inline-block;
+	 margin-left: 13px;
+	 align-items: stretch;
+	}
+	
+	.cart tr{
+		border-bottom: dashed 1px grey;
+	}
+	
+
+	.cart tr:last-child, .cart tr:first-child {
+	border-bottom: none;
+	}
+	.rimage{
+		width: 100%;
+	}

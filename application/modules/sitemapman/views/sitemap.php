@@ -1,0 +1,325 @@
+<?xm.000ll version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.shopamerika.com/beta/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/home/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/brands/brands_list</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=2</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=3</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=13</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=22</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=57</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=26</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=41</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=52</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=77</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=78</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=1140</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=92</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=149</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=119</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=120</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=128</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=129</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=1190</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=135</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=249</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=139</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=2&amp;s=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=2&amp;s=0&amp;s=100</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=2&amp;s=0&amp;s=101</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=31</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=33</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=34</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=40</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=35</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=36</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=38</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=39</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=12</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=1205</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=1203</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=1230</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=1201</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=1202</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=31&amp;s=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=31&amp;s=0&amp;s=100</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=31&amp;s=0&amp;s=101</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=168&amp;s=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=168&amp;s=0&amp;s=100</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=168&amp;s=0&amp;s=101</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=109</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=110</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=111</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=112</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=113</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=114</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=115</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=116</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=117</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=1724</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=118</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=220</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=221</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=223</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=224</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=222</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=1726</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=109&amp;s=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=109&amp;s=0&amp;s=100</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=109&amp;s=0&amp;s=101</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=219&amp;s=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=219&amp;s=0&amp;s=100</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=219&amp;s=0&amp;s=101</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=65</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=65&amp;s=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=65&amp;s=0&amp;s=100</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=65&amp;s=0&amp;s=101</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=244&amp;s=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=244&amp;s=0&amp;s=100</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=244&amp;s=0&amp;s=101</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=413</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.shopamerika.com/beta/product/browse/?cat_id=560</loc>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>

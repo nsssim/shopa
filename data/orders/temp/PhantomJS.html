@@ -1,0 +1,120 @@
+<html><head>
+        <meta charset="UTF-8">
+        <title>Install PhantomJS on CentOS - Bonus Bits</title>
+
+    </head>
+    <body>
+        <div >
+            <h1 >Install PhantomJS on CentOS 7</h1>
+            <div>
+                
+                
+                <div >
+
+                    <h2>
+                        <span class="mw-headline" id="Prerequisites">Prerequisites</span>
+                    </h2>
+                    <ul>
+                        <li>fontconfig freetype freetype-devel fontconfig-devel libstdc++
+                            <dl>
+                                <dd>
+                                    <div class="mw-highlight mw-content-ltr" dir="ltr">
+                                        <pre>yum install fontconfig freetype freetype-devel fontconfig-devel libstdc++</pre>
+                                    </div>
+                                </dd>
+                            </dl>
+                        </li>
+                    </ul>
+                    <p>
+                        <br>
+                    </p>
+                    <h2>
+                        <span class="mw-headline" id="Download">Download</span>
+                    </h2>
+                    <ol>
+                        <li>
+                            <a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://phantomjs.org/download.html">http://phantomjs.org/download.html</a>
+                            <ol>
+                                <li>i.e.
+                                    <div class="mw-highlight mw-content-ltr" dir="ltr">
+                                        <pre>wget https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.8-linux-x86_64.tar.bz2</pre>
+                                    </div>
+                                </li>
+                            </ol>
+                        </li>
+                    </ol>
+                    <p>
+                        <br>
+                    </p>
+                    <h2>
+                        <span class="mw-headline" id="Install">Install</span>
+                    </h2>
+                    <p>One way to extract the archive and preserve the included files and structure
+                        is to extract to an folder and set the path to the bin.</p>
+                    <ol>
+                        <li>Create Directory</li>
+                        <li>
+                            <div class="mw-highlight mw-content-ltr" dir="ltr">
+                                <pre>mkdir -p /opt/phantomjs</pre>
+                            </div>
+                        </li>
+                        <li>Extract</li>
+                        <li>
+                            <div class="mw-highlight mw-content-ltr" dir="ltr">
+                                <pre>tar -xjvf ~/downloads/phantomjs-1.9.8-linux-x86_64.tar.bz2 --strip-components 1 /opt/phantomjs/</pre>
+                            </div>
+                        </li>
+                        <li>Create Symlink</li>
+                        <li>
+                            <div class="mw-highlight mw-content-ltr" dir="ltr">
+                                <pre>ln -s /opt/phantomjs/bin/phantomjs /usr/bin/phantomjs</pre>
+                            </div>
+                        </li>
+                    </ol>
+                    <h2>
+                        <span class="mw-headline" id="Test">Test</span>
+                    </h2>
+                    <div class="mw-highlight mw-content-ltr" dir="ltr">
+                        <pre>phantomjs /opt/phantomjs/examples/hello.js</pre>
+                    </div>
+                    
+                    
+                    
+                </div>
+                
+                <div id="catlinks" class="catlinks" data-mw="interface"></div>
+                <div class="visualClear"></div>
+            </div>
+            <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- bonusbits_footer -->
+            
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+        <div id="mw-navigation"></div>
+        <div id="footer" role="contentinfo">
+            
+            
+            
+            <div style="clear:both"></div>
+        </div>
+        <script>
+            (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});
+        </script>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            
+              ga('create', 'UA-63184753-1', 'auto');
+              ga('set', 'anonymizeIp', true);
+              ga('send', 'pageview');
+        </script>
+        <script>
+            (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":202});});
+        </script>
+    
+
+</body></html>
